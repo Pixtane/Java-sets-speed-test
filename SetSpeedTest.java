@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class homework {
+public class SetSpeedTest {
     public static void adding(HashSet hashSet, LinkedHashSet linkedSet, TreeSet treeSet){
 
         long timeMLBefore = System.currentTimeMillis();
